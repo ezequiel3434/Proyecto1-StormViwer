@@ -81,12 +81,12 @@
 				37DEFC2424B361E60062792D /* AppDelegate.swift */,
 				37DEFC2624B361E60062792D /* SceneDelegate.swift */,
 				37DEFC2824B361E60062792D /* ViewController.swift */,
+				370C0C4824B4FDC900A03CBB /* DetailViewController.swift */,
 				37DEFC2A24B361E60062792D /* Main.storyboard */,
 				37DEFC2D24B361E70062792D /* Assets.xcassets */,
 				37DEFC2F24B361E70062792D /* LaunchScreen.storyboard */,
 				37DEFC3224B361E70062792D /* Info.plist */,
 				37DEFC3824B3676C0062792D /* Content */,
-				370C0C4824B4FDC900A03CBB /* DetailViewController.swift */,
 			);
 			path = "Proyecto1-StormViwer";
 			sourceTree = "<group>";
