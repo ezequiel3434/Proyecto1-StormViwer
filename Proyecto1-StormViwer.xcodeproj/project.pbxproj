@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		370C0C4924B4FDC900A03CBB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370C0C4824B4FDC900A03CBB /* DetailViewController.swift */; };
 		37DEFC2524B361E60062792D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37DEFC2424B361E60062792D /* AppDelegate.swift */; };
 		37DEFC2724B361E60062792D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37DEFC2624B361E60062792D /* SceneDelegate.swift */; };
 		37DEFC2924B361E60062792D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37DEFC2824B361E60062792D /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		370C0C4824B4FDC900A03CBB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		37DEFC2124B361E60062792D /* Proyecto1-StormViwer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proyecto1-StormViwer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		37DEFC2424B361E60062792D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37DEFC2624B361E60062792D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				37DEFC2F24B361E70062792D /* LaunchScreen.storyboard */,
 				37DEFC3224B361E70062792D /* Info.plist */,
 				37DEFC3824B3676C0062792D /* Content */,
+				370C0C4824B4FDC900A03CBB /* DetailViewController.swift */,
 			);
 			path = "Proyecto1-StormViwer";
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				37DEFC2924B361E60062792D /* ViewController.swift in Sources */,
 				37DEFC2524B361E60062792D /* AppDelegate.swift in Sources */,
 				37DEFC2724B361E60062792D /* SceneDelegate.swift in Sources */,
+				370C0C4924B4FDC900A03CBB /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
